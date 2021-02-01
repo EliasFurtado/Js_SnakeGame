@@ -22,19 +22,19 @@ The purpose of the game is achive the higher score eating the foods appearing in
 #### JS
 
 # Features
-[ x ] Create a canvas
-[ x ] Create the border
-[ x ] Create the Snake
-[ x ] Create functions to move and turn on the snake
-[ x ] Create food in random position on the screen
-[ x ] Increase the size and speed of the snake when pickup the food
-[ x ] Implement a score
+- [x] Create a canvas
+- [x] Create the border
+- [x] Create the Snake
+- [x] Create functions to move and turn on the snake
+- [x] Create food in random position on the screen
+- [x] Increase the size and speed of the snake when pickup the food
+- [x] Implement a score
 
 # How to Play
 Open the [preview](#preview), use the WASD keys to control the snake, take the foods without colide your snake and good lucky!
 
 # Preview
-#### Click [Here] (https://codepen.io/eliasfurtado/full/MWbwaaQ) to preview the game 
+#### Click [Here](https://codepen.io/eliasfurtado/full/MWbwaaQ) to preview the game 
 
 # Creator
 
